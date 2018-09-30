@@ -9,4 +9,4 @@ class App extends Component {
  );
  }
 }
-export default My neam;
+export default My ;
