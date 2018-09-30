@@ -1,0 +1,38 @@
+.My neam {
+    text-align: below;
+  }
+  
+  .My neam -logo {
+    animation: My neam-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .My neam -header {
+    background-color: rgb(7, 197, 255);
+    height: 150px;
+    padding: 20px;
+    color: pink;
+  }
+  
+  .My neam -title {
+    font-size: 1.5em;
+  }
+  
+  .My neam -intro {
+    font-size: large;
+  }
+  
+  @keyframes My neam-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
+  .card {
+    display: inline-block;
+    text-align: below;
+    width: 3em;
+    font-size: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin: 1em;
+    user-select: none;
+   }
